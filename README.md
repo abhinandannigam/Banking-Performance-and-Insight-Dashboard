@@ -126,7 +126,9 @@ Premium
 
 Policy Tenure
 
-Dashboard Preview
+Dashboard Preview:
+
+https://github.com/abhinandannigam/Banking-Performance-and-Insight-Dashboard/blob/main/Screenshot.png
 
 Key Insights:
 
